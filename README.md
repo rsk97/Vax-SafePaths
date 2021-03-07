@@ -22,7 +22,7 @@ Additional Details:
 * [Events](#events)
 * [FAQ](#faq)
 
-### Slides and Events
+### Slides 
 Vaccines for All Conference at MIT - [Pandemic.mit.edu](https://pandemic.mit.edu)
 
 Slides - [MIT, IDEO, PathCheck, CCI, VCI](https://tiny.cc/mitvax)
