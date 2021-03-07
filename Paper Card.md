@@ -1,5 +1,6 @@
 # Vaccination Record Card Proposals
 
+## Currently existing card
 ![Record Card](https://github.com/Path-Check/vaccine-diary/blob/main/Resources/P_V_Card_1.png)
 
 ## MIT SafePaths Solution
