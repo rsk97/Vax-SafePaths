@@ -15,7 +15,6 @@ Ecosystem:
 Additional Details:
 * Slides
 * [News and Analysis](#news-and-analysis)
-* [Team](#Team)
 * [Papers](#papers)
 * Advisor Background
 * [Events](#events)
